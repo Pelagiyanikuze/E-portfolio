@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "E-port"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pelagiyanikuze E-port",
+		"liveServer.settings.port": 5501
+	}
+}
